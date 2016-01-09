@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fairland]]></title>
+        <description><![CDATA[Fairland]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 18:26:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fiction or Reality?</p>]]></description>
+            <link>undefined2117ca5c-3627-4695-8148-1e45941d6ec4/index.html</link>
+            <guid isPermaLink="false">2117ca5c-3627-4695-8148-1e45941d6ec4</guid>
+            <pubDate>Sat, 09 Jan 2016 18:26:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
