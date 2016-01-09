@@ -1,7 +1,7 @@
 name: Fairland
 favicon: null
-layout_spectrum: 0.47703648265451193
-typography_spectrum: 0.9235913685988635
+layout_spectrum: 0.24528
+typography_spectrum: 0.87473
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7831502670887858
+    - '#000000'
+    - '#724f53'
+    - '#a46544'
+    - '#120f1a'
+    - '#37191d'
+  brandStrength: 0.9375
   lightness: 0.6129166472237557
   saturation: 0.014870544662699103
   rhythmicContrast: 0.7453365863766521
