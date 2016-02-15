@@ -1,6 +1,6 @@
 name: Fairland
 favicon: null
-layout_spectrum: 0.99139
+layout_spectrum: 0.01174
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#867229'
     - '#443b19'
   brandStrength: 0.875
-  lightness: 0.5
-  saturation: 0.8125
+  lightness: 0.3125
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
