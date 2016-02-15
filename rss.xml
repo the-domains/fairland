@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fairland]]></title>
         <description><![CDATA[Fairland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fairland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 19:18:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 19:56:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fairland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49538508-46b1-4246-9135-bb4f4c4e6b8b.jpg">]]></description>
-            <link>undefined3a7cc2c3-e6db-4d13-8a5b-492157cb648f/index.html</link>
+            <title><![CDATA[FICTION OR REALITY?]]></title>
+            <description><![CDATA[<article><h1>FICTION OR REALITY?</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90661b2dcbefd3ccb53b16be8b5079a5fdc96ac5.png"></article>]]></description>
+            <link>https://thegrid.ai/fairland/3a7cc2c3-e6db-4d13-8a5b-492157cb648f/index.html</link>
             <guid isPermaLink="false">3a7cc2c3-e6db-4d13-8a5b-492157cb648f</guid>
-            <pubDate>Mon, 15 Feb 2016 19:17:35 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 19:56:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
